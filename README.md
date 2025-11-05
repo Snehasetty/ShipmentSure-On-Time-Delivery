@@ -1,6 +1,6 @@
 # ShipmentSure: Predicting On-Time Delivery Using Supplier Data
 
-# ShipmentSure: Predicting On-Time Delivery Using Supplier Data
+
 
 ##  Project Overview
 ShipmentSure is a machine learning project designed to predict whether a product shipment will arrive **on time** based on various supplier and logistics features.  
